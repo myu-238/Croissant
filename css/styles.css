@@ -3,7 +3,8 @@ body {
 }
 
 h1,
-p {
+p,
+footer {
     text-align: center;
 }
 
